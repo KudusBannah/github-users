@@ -19,7 +19,7 @@ The GitHub User Search App is a web application that allows users to search for 
 
 The GitHub User Search App is hosted on GitHub Pages using a custom domain name on my github student account. To access the app, follow the steps below:
 
-1. Open your web browser and go to: http://kudusbannah.me/
+1. Open your web browser and go to: https://githubusers-piwp.onrender.com/
 
 ## Setup and Usage
 
